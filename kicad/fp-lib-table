@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name rfm98-breakout)(type KiCad)(uri "$(KIPRJMOD)/rfm98-breakout.pretty")(options "")(descr ""))
+  (lib (name utils)(type Github)(uri https://github.com/hannes-hochreiner/kicad-footprints)(options "")(descr ""))
+)
